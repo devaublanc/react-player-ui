@@ -1,0 +1,25 @@
+{
+  "name": "react-player-ui",
+  "version": "1.0.0",
+  "description": "react player UI",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devaublanc/react-player-ui.git"
+  },
+  "keywords": [
+    "player",
+    "seekbar",
+    "controls",
+    "video"
+  ],
+  "author": "Benjamin Devaublanc <benjamin.devaublanc.com> (https://github.com/devaublanc)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devaublanc/react-player-ui/issues"
+  },
+  "homepage": "https://github.com/devaublanc/react-player-ui#readme"
+}
