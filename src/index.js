@@ -1,6 +1,6 @@
-var player = 'Hello player';
-var seekbar = 'Hello seekbar';
+const player = 'Hello player';
+const seekbar = 'Hello seekbar';
 
 module.exports = {
-    player: player
+    player
 }
